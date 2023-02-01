@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj",
+        "projectName": "DinnerApp.Application",
+        "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj",
+        "packagesPath": "C:\\Users\\TheTo\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "c:\\Users\\TheTo\\NuGet.Config",
+          "C:\\Users\\TheTo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj": {
+                "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj",
+        "projectName": "DinnerApp.Domain",
+        "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\TheTo\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "c:\\Users\\TheTo\\NuGet.Config",
+          "C:\\Users\\TheTo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

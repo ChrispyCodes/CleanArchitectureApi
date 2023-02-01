@@ -1,0 +1,12 @@
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\bin\Debug\net7.0\DinnerApp.Domain.deps.json
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\bin\Debug\net7.0\DinnerApp.Domain.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\bin\Debug\net7.0\DinnerApp.Domain.pdb
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\obj\Debug\net7.0\DinnerApp.Domain.csproj.AssemblyReference.cache
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\obj\Debug\net7.0\DinnerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\obj\Debug\net7.0\DinnerApp.Domain.AssemblyInfoInputs.cache
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\obj\Debug\net7.0\DinnerApp.Domain.AssemblyInfo.cs
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\obj\Debug\net7.0\DinnerApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\obj\Debug\net7.0\DinnerApp.Domain.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\obj\Debug\net7.0\refint\DinnerApp.Domain.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\obj\Debug\net7.0\DinnerApp.Domain.pdb
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Domain\obj\Debug\net7.0\ref\DinnerApp.Domain.dll

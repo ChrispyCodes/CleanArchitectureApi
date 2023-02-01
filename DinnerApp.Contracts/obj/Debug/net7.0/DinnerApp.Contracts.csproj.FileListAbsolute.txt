@@ -1,0 +1,12 @@
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\bin\Debug\net7.0\DinnerApp.Contracts.deps.json
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\bin\Debug\net7.0\DinnerApp.Contracts.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\bin\Debug\net7.0\DinnerApp.Contracts.pdb
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\obj\Debug\net7.0\DinnerApp.Contracts.csproj.AssemblyReference.cache
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\obj\Debug\net7.0\DinnerApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\obj\Debug\net7.0\DinnerApp.Contracts.AssemblyInfoInputs.cache
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\obj\Debug\net7.0\DinnerApp.Contracts.AssemblyInfo.cs
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\obj\Debug\net7.0\DinnerApp.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\obj\Debug\net7.0\DinnerApp.Contracts.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\obj\Debug\net7.0\refint\DinnerApp.Contracts.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\obj\Debug\net7.0\DinnerApp.Contracts.pdb
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Contracts\obj\Debug\net7.0\ref\DinnerApp.Contracts.dll

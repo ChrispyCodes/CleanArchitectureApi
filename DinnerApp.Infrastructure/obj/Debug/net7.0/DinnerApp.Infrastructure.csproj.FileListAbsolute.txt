@@ -1,0 +1,17 @@
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\bin\Debug\net7.0\DinnerApp.Infrastructure.deps.json
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\bin\Debug\net7.0\DinnerApp.Infrastructure.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\bin\Debug\net7.0\DinnerApp.Infrastructure.pdb
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\DinnerApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\DinnerApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\DinnerApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\DinnerApp.Infrastructure.AssemblyInfo.cs
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\DinnerApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\DinnerApp.Infrastructure.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\refint\DinnerApp.Infrastructure.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\DinnerApp.Infrastructure.pdb
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\ref\DinnerApp.Infrastructure.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\bin\Debug\net7.0\DinnerApp.Application.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\bin\Debug\net7.0\DinnerApp.Domain.dll
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\bin\Debug\net7.0\DinnerApp.Application.pdb
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\bin\Debug\net7.0\DinnerApp.Domain.pdb
+C:\Users\TheTo\source\CleanArchitectureDDD\DinnerApp\DinnerApp.Infrastructure\obj\Debug\net7.0\DinnerApp.Infrastructure.csproj.CopyComplete
