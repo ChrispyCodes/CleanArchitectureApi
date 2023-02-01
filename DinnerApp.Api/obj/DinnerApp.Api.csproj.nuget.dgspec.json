@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\DinnerApp.Api.csproj": {}
+    "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\DinnerApp.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\DinnerApp.Api.csproj": {
+    "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\DinnerApp.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\DinnerApp.Api.csproj",
+        "projectUniqueName": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\DinnerApp.Api.csproj",
         "projectName": "DinnerApp.Api",
-        "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\DinnerApp.Api.csproj",
+        "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\DinnerApp.Api.csproj",
         "packagesPath": "C:\\Users\\TheTo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\obj\\",
+        "outputPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "c:\\Users\\TheTo\\NuGet.Config",
+          "C:\\Users\\TheTo\\NuGet.Config",
           "C:\\Users\\TheTo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {
-                "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj"
+              "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {
+                "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj"
               },
-              "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj": {
-                "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj"
+              "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj": {
+                "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj"
               },
-              "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj"
+              "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj"
               }
             }
           }
@@ -53,16 +53,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.2, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -86,20 +76,20 @@
         }
       }
     },
-    "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {
+    "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj",
+        "projectUniqueName": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj",
         "projectName": "DinnerApp.Application",
-        "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj",
+        "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj",
         "packagesPath": "C:\\Users\\TheTo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\obj\\",
+        "outputPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "c:\\Users\\TheTo\\NuGet.Config",
+          "C:\\Users\\TheTo\\NuGet.Config",
           "C:\\Users\\TheTo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -114,8 +104,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj": {
-                "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj"
+              "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj"
               }
             }
           }
@@ -149,20 +139,20 @@
         }
       }
     },
-    "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj": {
+    "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj",
         "projectName": "DinnerApp.Contracts",
-        "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj",
+        "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj",
         "packagesPath": "C:\\Users\\TheTo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "c:\\Users\\TheTo\\NuGet.Config",
+          "C:\\Users\\TheTo\\NuGet.Config",
           "C:\\Users\\TheTo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -208,20 +198,20 @@
         }
       }
     },
-    "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj": {
+    "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj",
         "projectName": "DinnerApp.Domain",
-        "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj",
+        "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\DinnerApp.Domain.csproj",
         "packagesPath": "C:\\Users\\TheTo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "c:\\Users\\TheTo\\NuGet.Config",
+          "C:\\Users\\TheTo\\NuGet.Config",
           "C:\\Users\\TheTo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -267,20 +257,20 @@
         }
       }
     },
-    "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj": {
+    "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj",
         "projectName": "DinnerApp.Infrastructure",
-        "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\TheTo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "c:\\Users\\TheTo\\NuGet.Config",
+          "C:\\Users\\TheTo\\NuGet.Config",
           "C:\\Users\\TheTo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -295,8 +285,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {
-                "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj"
+              "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {
+                "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VH41gC3WfOABLG8mtBVcsV+xPw4QDz+iKK/2cnBRRrjGDaYBuwnEAS8BQU/d/61iY9vlcCceHEozfs0TaKPjhg==",
+  "dgSpecHash": "J/wshgdYSOxPjG8HpmVIrnrUZ9eVWoL9Sf66Q/oMSAjx94btnu0mXN8oxVGctYZFbHrFA4WwbAsG3eZnSmB52A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Contracts\\DinnerApp.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

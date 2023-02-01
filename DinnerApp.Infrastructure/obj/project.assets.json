@@ -51,17 +51,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj",
       "projectName": "DinnerApp.Infrastructure",
-      "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\TheTo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "c:\\Users\\TheTo\\NuGet.Config",
+        "C:\\Users\\TheTo\\NuGet.Config",
         "C:\\Users\\TheTo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -76,8 +76,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {
-              "projectPath": "c:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj"
+            "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj": {
+              "projectPath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Application\\DinnerApp.Application.csproj"
             }
           }
         }
