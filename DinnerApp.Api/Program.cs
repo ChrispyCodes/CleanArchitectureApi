@@ -1,8 +1,9 @@
-using DinnerApp.Application.Services.Authentication;
+using DinnerApp.Application;
+using DinnerApp.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
-    builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
+    builder.Services.AddApplication().AddInfrastructure();
     builder.Services.AddControllers();
 }
 
