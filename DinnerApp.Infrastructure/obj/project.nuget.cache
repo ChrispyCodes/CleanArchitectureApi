@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "mLqd9IDh14zhTWiEokPQkk5cXulC8SQMyTLEWxfNwu9mPlp3KEPX65lmRygsPTYYEkr5rv/NsCILX6rb+anGtg==",
+  "dgSpecHash": "BIgD+MZkyLz9X5/BYre+X/H5iGYA6WuYeIv1VizSTBXtTVq4H1IEr7s8HZi8CA0EoIdRkcN1GBkVDBg8Clb48w==",
   "success": true,
   "projectFilePath": "C:\\Users\\TheTo\\source\\CleanArchitectureDDD\\DinnerApp\\DinnerApp.Infrastructure\\DinnerApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
     "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.26.0\\microsoft.identitymodel.abstractions.6.26.0.nupkg.sha512",
     "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.26.0\\microsoft.identitymodel.jsonwebtokens.6.26.0.nupkg.sha512",
     "C:\\Users\\TheTo\\.nuget\\packages\\microsoft.identitymodel.logging\\6.26.0\\microsoft.identitymodel.logging.6.26.0.nupkg.sha512",
