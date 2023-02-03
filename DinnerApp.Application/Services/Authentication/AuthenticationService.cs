@@ -10,9 +10,10 @@ public class AuthenticationService : IAuthenticationService
 
     private readonly IUserRepository _userRepository;
 
-    public AuthenticationService(IJwtTokenGenerator jwtTokenGenerator)
+    public AuthenticationService(IJwtTokenGenerator jwtTokenGenerator, IUserRepository userRepository)
     {
         _jwtTokenGenerator = jwtTokenGenerator;
+        _userRepository = userRepository;
     }
     public AuthenticationResult Login(string email, string password)
     {
@@ -30,8 +31,8 @@ public class AuthenticationService : IAuthenticationService
 
 
         //generate token
-        var token = _jwtTokenGenerator.GenerateToken(user.Id, user.FirstName, user.LastName);
-        return new AuthenticationResult(user.Id, user.FirstName, user.LastName,email, token);
+        var token = _jwtTokenGenerator.GenerateToken(user);
+        return new AuthenticationResult(user, token);
     }
 
     public AuthenticationResult Register(string email, string password, string firstName, string lastName, string token)
@@ -53,8 +54,8 @@ public class AuthenticationService : IAuthenticationService
     
         _userRepository.Add(user);
         //generate token
-        token = _jwtTokenGenerator.GenerateToken(user.Id, user.FirstName, user.LastName);
+        token = _jwtTokenGenerator.GenerateToken(user);
 
-        return new AuthenticationResult(user.Id, user.FirstName, user.LastName,email, token);
+        return new AuthenticationResult(user, token);
     }
 }

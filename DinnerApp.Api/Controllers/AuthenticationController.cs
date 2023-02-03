@@ -20,16 +20,20 @@ namespace DinnerApp.Api.Controllers
         {
             var result = _authenticationService.Register(request.Email, request.Password, request.FirstName, request.LastName, "token");
 
-            var response = new AuthenticationResult(result.Id, result.Email, result.FirstName, result.LastName, result.Token);
+            var response = new AuthenticationResult(
+                result.User,
+                result.Token);
             return Ok(response);
         }
 
         [HttpPost("login")]
-        public IActionResult Login( LoginRequest request)
+        public IActionResult Login(LoginRequest request)
         {
             var result = _authenticationService.Login(request.Email, request.Password);
 
-            var response = new AuthenticationResult(result.Id, result.Email, result.FirstName, result.LastName, result.Token);
+            var response = new AuthenticationResult(
+                result.User,
+                result.Token);
             return Ok(response);
         }
     }

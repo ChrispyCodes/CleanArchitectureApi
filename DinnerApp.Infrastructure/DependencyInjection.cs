@@ -1,5 +1,7 @@
 using DinnerApp.Application.Common.Interfaces.Authentication;
+using DinnerApp.Application.Common.Interfaces.Persistence;
 using DinnerApp.Application.Common.Interfaces.Services;
+using DinnerApp.Infrastructure.Persistence;
 using DinnerApp.Infrastructure.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -14,6 +16,8 @@ namespace DinnerApp.Infrastructure
             services.Configure<JwtSettings>(configuration.GetSection(JwtSettings.SectionName));
             services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
             services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
+            
+            services.AddScoped<IUserRepository, UserRepository>();
             return services;
         }
     }
